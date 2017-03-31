@@ -2,11 +2,11 @@ package main
 
 import (
 	"flag"
-	"github.com/shaoguang123/go-ctp"
 	"log"
 	"os"
 	"reflect"
 	"time"
+	"github.com/llmofang/go-ctp"
 )
 
 var (
